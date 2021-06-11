@@ -1,1 +1,1 @@
-# Tester.com
+# Manual Test Cases
